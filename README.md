@@ -30,8 +30,7 @@ aws-lambda-image-resizer/
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/<your-github-username>/aws-lambda-image-resizer.git
-cd aws-lambda-image-resizer
+git clone https://github.com/ritikops/aws-lambda-image-resizer.git
 ```
 
 ### **2️⃣ Install Dependencies**  
