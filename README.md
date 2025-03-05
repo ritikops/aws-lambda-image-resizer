@@ -1,6 +1,3 @@
-# AWS Lambda Image Resizer 🚀
-Here's a **clean and well-structured** version of your documentation, making it clear and professional for your GitHub repository.  
-
 ---
 
 # **AWS Lambda Image Resizer 🚀**  
